@@ -1,5 +1,27 @@
 # @crypticdot/fusionamm
 
+## 1.0.70
+
+### Patch Changes
+
+- @crypticdot/fusionamm-core@1.0.70
+- @crypticdot/fusionamm-client@1.0.70
+
+## 1.0.69
+
+### Patch Changes
+
+- Updated dependencies [010c0ff]
+  - @crypticdot/fusionamm-core@1.0.69
+  - @crypticdot/fusionamm-client@1.0.69
+
+## 1.0.68
+
+### Patch Changes
+
+- @crypticdot/fusionamm-core@1.0.68
+- @crypticdot/fusionamm-client@1.0.68
+
 ## 1.0.62
 
 ### Patch Changes
